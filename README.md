@@ -3,28 +3,25 @@
 ---
 
 ### About Me
-
 Machine learning researcher focused on **computational epidemiology, biosurveillance, and spatiotemporal forecasting systems**.
 
-Currently a Research Assistant with the **USDA Agricultural Research Service (ARS)** developing forward-looking county-month forecasting systems for **Highly Pathogenic Avian Influenza (HPAI)** across the conterminous United States.
+Former Research Assistant (part-time) with the **USDA Agricultural Research Service (ARS)**, where I developed a leakage-safe, forward-looking county-month forecasting framework for **Highly Pathogenic Avian Influenza (HPAI)** across the continental United States.
 
-Incoming M.S. student in **Veterinary & Biomedical Science (Computational Biology)** at **Mississippi State University** beginning Fall 2026.
+Incoming M.S. student in **Veterinary & Biomedical Science (Computational Biology)** at **Mississippi State University**, beginning Fall 2026.
 
 ---
 
 ### Research Focus
+My work sits at the intersection of machine learning and public health — building operational forecasting systems and rare-event models under real-world deployment constraints.
 
-My work sits at the intersection of machine learning and public health, focused on building operational forecasting systems and rare event models under real-world constraints.
-
-* **National-Scale Scope**: Developing a national-scale county-month HPAI forecasting framework using environmental, agricultural, and geospatial data.
-* **Forecasting Systems**: Implementing graph-based spatiotemporal machine learning models over county adjacency structure to capture cross-county disease dynamics.
-* **Evaluation Under Real Constraints**: Engineering leakage-safe forecasting infrastructure with forward-only data truncation, synthetic target-month feature generation, persisted forecast artifacts, and monthly backtesting.
-* **Interpretability for Decision Support**: Designing a dashboard with interactive county risk maps, translating modeling outputs into biosurveillance insights for non-technical audiences.
+* **National-Scale Scope**: County-month HPAI forecasting across the continental U.S., evaluated over a 24-month rolling-origin backtest spanning **74,616 county-month forecasts**.
+* **Forecasting Systems**: Graph-based spatiotemporal models over county adjacency structure, benchmarked against ensemble models across **40 configurations**.
+* **Evaluation Under Real Constraints**: Leakage-safe infrastructure with forward-only temporal truncation, synthetic forecast-month covariate generation, and automated monthly backtesting — achieving **73% balanced accuracy and 74% recall** against 0.8% outbreak-positive prevalence.
+* **Interpretability for Decision Support**: Built an interactive dashboard translating county-level risk scores into biosurveillance tiers for producers and animal-health professionals.
 
 ---
 
 ### Links
-
 [**Website**](https://www.willmaberry.com) • [**LinkedIn**](https://www.linkedin.com/in/will-maberry/) • [**Resume/CV**](https://www.willmaberry.com/files/Will_Maberry_Resume.pdf)
 
 ---
