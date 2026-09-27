@@ -3,11 +3,12 @@
 ---
 
 ### About Me
-Machine learning researcher focused on **computational epidemiology, biosurveillance, and spatiotemporal forecasting**.
 
-**Graduate Research Assistant (GRA)** in the Department of Pathobiology and Population Medicine in the College of Veterinary Medicine and M.S. student in **Veterinary & Biomedical Science (Computational Biology)** at **Mississippi State University**.
+I'm a **computational epidemiology researcher** working at the intersection of infectious disease forecasting, biosurveillance, and outbreak epidemiology.
 
-Former Research Assistant (part-time) with the **USDA Agricultural Research Service (ARS)**, developing national-scale biosurveillance tools for **Highly Pathogenic Avian Influenza (HPAI)**.
+I'm currently a **Graduate Research Assistant** in the Department of Pathobiology and Population Medicine at Mississippi State University's College of Veterinary Medicine, where I'm pursuing an M.S. in **Veterinary and Biomedical Sciences (Computational Biology)**.
+
+My research has focused on national-scale **Highly Pathogenic Avian Influenza (HPAI)** biosurveillance, including leakage-safe spatiotemporal forecasting, rare-event modeling, geospatial machine learning, and epidemiologic study design.
 
 ---
 
@@ -16,4 +17,4 @@ Former Research Assistant (part-time) with the **USDA Agricultural Research Serv
 
 ---
 
-<p align="center"><i>Many repositories are private due to unpublished USDA research.</i></p>
+<p align="center"><i>Many repositories are private due to unpublished research.</i></p>
