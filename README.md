@@ -13,7 +13,7 @@ My research has focused on national-scale **Highly Pathogenic Avian Influenza (H
 ---
 
 ### Links
-[**Website**](https://www.willmaberry.com) • [**LinkedIn**](https://www.linkedin.com/in/will-maberry/) • [**Resume/CV**](https://www.willmaberry.com/files/Will_Maberry_Resume.pdf)
+[**Website**](https://www.willmaberry.com) • [**LinkedIn**](https://www.linkedin.com/in/will-maberry/) • [**Resume**](https://www.willmaberry.com/files/Will_Maberry_Resume.pdf)
 
 ---
 
