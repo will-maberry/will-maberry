@@ -4,15 +4,14 @@
 
 ### About Me
 
-I'm a **computational epidemiology researcher** working at the intersection of infectious disease forecasting, biosurveillance, and outbreak epidemiology.
+I'm a **computational epidemiology researcher** working at the intersection of infectious disease surveillance, outbreak epidemiology, and population medicine.
 
-I'm currently a **Graduate Research Assistant** in the Department of Pathobiology and Population Medicine at Mississippi State University's College of Veterinary Medicine, where I'm pursuing an M.S. in **Veterinary and Biomedical Sciences (Computational Biology)**.
-
-My research has focused on national-scale **Highly Pathogenic Avian Influenza (HPAI)** biosurveillance, including leakage-safe spatiotemporal forecasting, rare-event modeling, geospatial machine learning, and epidemiologic study design.
+I'm currently a **Graduate Research Assistant** in the Department of Pathobiology and Population Medicine at Mississippi State University's College of Veterinary Medicine, pursuing an M.S. in **Veterinary and Biomedical Sciences (Population Medicine concentration)** as a USDA ARS NACA Fellow. My graduate thesis investigates associations between farm-level biosecurity practices and H5N1 highly pathogenic avian influenza (HPAI) outbreaks among poultry operations in the Midwestern United States.
 
 ---
 
 ### Links
+
 [**Website**](https://www.willmaberry.com) • [**LinkedIn**](https://www.linkedin.com/in/will-maberry/) • [**Resume**](https://www.willmaberry.com/files/Will_Maberry_Resume.pdf)
 
 ---
